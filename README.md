@@ -2,7 +2,7 @@
 Project Overview
 This project focuses on the structural analysis and optimization of a "Swan Neck" rear wing mounting system for a Formula Student race car. The goal was to compare two design concepts (Single Neck vs. Dual Neck) under aerodynamic loads to determine the best balance between structural rigidity, weight, and stress distribution.
 
-🎯 Objective
+Objective
 To evaluate the structural integrity of Carbon Fiber Reinforced Polymer (CFRP) mounting structures.
 
 To minimize wing deflection to maintain aerodynamic efficiency (DRS stability).
