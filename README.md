@@ -1,4 +1,4 @@
-# Mount-Optimization-Single-vs.-Dual-Swan-Neck
+# asdasdadas
 Project Overview
 This project focuses on the structural analysis and optimization of a "Swan Neck" rear wing mounting system for a Formula Student race car. The goal was to compare two design concepts (Single Neck vs. Dual Neck) under aerodynamic loads to determine the best balance between structural rigidity, weight, and stress distribution.
 
